@@ -29,15 +29,15 @@ tabItems.forEach(item => {
 
 // Fetching
 
-fetch('../last_added.json')
+fetch('./last_added.json')
 	.then(data => data.json())
 	.then(success => lastAddedTab(success));
 
-fetch('../favorite.json')
+fetch('./favorite.json')
 	.then(data => data.json())
 	.then(success => favoriteTab(success));
 
-fetch('../movies.json')
+fetch('./movies.json')
 	.then(data => data.json())
 	.then(success =>allMovies(success));
 // ------Function for fetched info-------
@@ -179,7 +179,7 @@ case "action":
 
 let tabw = document.getElementById("tabw");
 
-fetch('../movies.json')
+fetch('./movies.json')
 .then(data => data.json())
 .then(success =>action(success));
 
@@ -225,7 +225,7 @@ case "documentary":
 
 let tabw2 = document.getElementById("tabw");
 
-fetch('../movies.json')
+fetch('./movies.json')
 .then(data => data.json())
 .then(success => documentary(success));
 
@@ -271,7 +271,7 @@ case "comedy":
 
 let tabw3 = document.getElementById("tabw");
 
-fetch('../movies.json')
+fetch('./movies.json')
 .then(data => data.json())
 .then(success =>comedy(success));
 
@@ -317,7 +317,7 @@ case "drama":
 
 let tabw4 = document.getElementById("tabw");
 
-fetch('../movies.json')
+fetch('./movies.json')
 .then(data => data.json())
 .then(success =>drama(success));
 
@@ -389,7 +389,7 @@ document.getElementById("tab2").addEventListener("click", (e) => {
 
 let f = localStorage.getItem("storageName-myUL");
 
-fetch('../movies.json')
+fetch('./movies.json')
 .then(data => data.json())
 .then(success =>movies(success));
 
