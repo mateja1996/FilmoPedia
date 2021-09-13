@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/cce2ed5d32.js"></script>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="./css/style.css">
+    <title>FILMOPEDIA</title>
+</head>
+<body>
+    <header class="showcaseAbout">
+        <div class="showcase-topAbout">
+            <nav class="navbar navbar-dark bg-dark">
+                
+                <a class="navbar-brand fs-2 fw-bold m-auto" href="./index.html">FILMO<span class="text-danger">.pedia</span></a>
+                    <div class="d-flex flex-wrap align-items-center justify-content-center m-auto">
+                        <div>
+                        <input type="text" class="rounded-pill me-4 my-2 px-1 bg-ligh" id="searchBar" placeholder=" pretraga">
+                        <ul id="myUL">
+                        </ul>
+                        </div>
+
+                        <a href="./index.html" class="link-light me-4 my-2" id="homepage">Pocetna</a>
+                        <div class="d-flex align-items-center justify-content-center">
+                            <div class="dropdown me-3 my-2">
+                                <button class="btn btn-secondary dropdown-toggle dd-btn" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Zanr
+                                </button>
+                                <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton1" id="genre-ul">
+                                    <li ><a href="./window.html"  class="dropdown-item"  id="action">Akcija</a></li>
+                                    <li ><a href="./window.html"  class="dropdown-item "  id="documentary">Dokumentarac</a></li>
+                                    <li><a  href="./window.html" class="dropdown-item "  id="comedy">Komedija</a></li>
+                                    <li><a  href="./window.html" class="dropdown-item "  id="drama">Drama</a></li>
+                                </ul>
+                            </div>
+                            <div class="dropdown">
+                                <button onclick="favList()" class="btn btn-secondary dropdown-toggle dd-btn" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Omiljeni filmovi <i class="fas fa-heart text-danger"></i>
+                                </button>
+                                <ul class="dropdown-menu bg-dark dropdown-menu-dark" aria-labelledby="dropdownMenuButton1" id="favList"> 
+                                </ul>
+                            </div>
+                        </div>
+                    
+                    </div>
+              </nav> 
+        </div>
+        <div class="showcase-contentt">
+            <div class="d-flex flex-wrap  pt-4">
+                <div class="m-auto pt-4" id="imageAbout"></div>
+                
+                <div class="m-auto pt-4" id="nameAbout"></div>
+
+                <div class="m-auto pt-4" id="directorAbout"></div>
+            </div>
+        </div>
+    </header>
+
+<section class="p-3 mt-3 bg-dark ">
+    <h5>Radnja filma:</h5>
+    <p>
+        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+    </p> 
+</section>
+     
+<!-- Divs for preventing event listener err -->
+<div style="display: none;" id="tab1"></div>
+<div style="display: none;" id="tab2"></div>
+<div style="display: none;" id="tab3"></div>
+<div style="display:none" id="tabw"></div>
+
+<script src="./js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>   
+</body>
+</html>

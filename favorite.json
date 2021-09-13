@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Joker",
+        "category": {
+            "primary": "Kriminal",
+            "secondary": "Drama",
+            "other": "Trilier"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "year": "2019",
+        "imdb": "9.6 ",
+        "url": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+        "director": {
+            "first": "Todd Phillips",
+            "second": ""
+        },
+        "casts": {
+            "first": "Joaquin Phoenix",
+            "second": "Zazie Beetz",
+            "third": "Robert De Niro"
+        }
+    },
+    {
+        "name": "Once Upon a Time... in Hollywood",
+        "category": {
+            "primary": "Komedija",
+            "secondary": "Drama",
+            "other": ""
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BZDEzNWFjMDMtMWQ2NS00OWZjLWI4YTctNmRlM2JkZGYxM2Q5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+        "director": {
+            "first": "Quentin Tarantino",
+            "second": ""
+        },
+        "casts": {
+            "first": "Leonardo DiCaprio",
+            "second": "Brad Pitt",
+            "third": "Margot Robbie"
+        }
+    },
+    {
+        "name": "The Dark Knight",
+        "category": {
+            "primary": "Akcija",
+            "secondary": "Kriminal",
+            "other": "Drama"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "year": "2008",
+        "imdb": "9.0 ",
+        "url": "https://www.youtube.com/watch?v=GokKUqLcvD8",
+        "director": {
+            "first": "Christopher Nolan",
+            "second": ""
+        },
+        "casts": {
+            "first": "Christian Bale",
+            "second": "Heath Ledger",
+            "third": "Aaron Eckhart"
+        }
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "category": {
+            "primary": "Biografija",
+            "secondary": "Drama",
+            "other": "Muzika"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=mP0VHJYFOAU",
+        "director": {
+            "first": "Bryan Singer",
+            "second": ""
+        },
+        "casts": {
+            "first": "Rami Malek",
+            "second": "Lucy Boynton",
+            "third": "Gwilym Lee"
+        }
+    },
+    {
+        "name": "Blade Runner 2049",
+        "category": {
+            "primary": "Akcija",
+            "secondary": "Drama",
+            "other": "Misterija"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=gCcx85zbxz4",
+        "director": {
+            "first": "Denis Villeneuve",
+            "second": ""
+        },
+        "casts": {
+            "first": "Harrison Ford",
+            "second": "Ryan Gosling",
+            "third": "Ana de Armas"
+        }
+    }
+]

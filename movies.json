@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Apollo 11",
+        "category": {
+            "primary": "Dokumentarac",
+            "secondary": "Istorija",
+            "other": ""
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_.jpg",
+        "year": "2019",
+        "imdb": "8.3",
+        "url": "https://www.youtube.com/watch?v=tpLrp0SW8yg",
+        "director": {
+            "first": "Todd Douglas Miller",
+            "second": ""
+        },
+        "casts": {
+            "first": "Neil Armstrong",
+            "second": "Michael Collins",
+            "third": "Buzz Aldrin"
+        }
+    },
+    {
+        "name": "Fighting With My Family",
+        "category": {
+            "primary": "Biografija",
+            "secondary": "Komedija",
+            "other": "Drama"
+        },
+        "url_img": "https://m.media-amazon.com/images/I/81VJZI4uuZL._SL1500_.jpg",
+        "year": "2019",
+        "imdb": "7.1",
+        "url": "https://www.youtube.com/watch?v=WqF3VTv0cqU",
+        "director": {
+                "first": "Stephen Merchant",
+                "second": ""
+            },
+        "casts": {
+            "first": "Dwayne Johnson",
+            "second": "Lena Headey",
+            "third": "Vince Vaughn"
+        }
+    },
+    {
+        "name": "Avengers: Endgame",
+        "category": {
+            "primary": "Akcija",
+            "secondary": "Avantura",
+            "other": "Naucna fantastika"
+        },
+        "url_img": "https://images-na.ssl-images-amazon.com/images/I/81hkRNYQhNL._SY679_.jpg",
+        "year": "2019",
+        "imdb": "8.6",
+        "url": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+        "director": {
+            "first": "Anthony Russo",
+            "second": "Joe Russo"
+        },
+        "casts": {
+            "first": "Robert Downey Jr.",
+            "second": "Chris Evans",
+            "third": "Mark Ruffalo"
+        }
+    },
+    {
+        "name": "Chernobyl",
+        "category": {
+            "primary": "Drama",
+            "secondary": "Istorija",
+            "other": "Triler"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BNTEyYmIzMDUtNWMwNC00Y2Q1LWIyZTgtMGY1YzUxOTAwYTAwXkEyXkFqcGdeQXVyMjIyMTc0ODQ@._V1_.jpg",
+        "year": "2019",
+        "imdb": "9.5",
+        "url": "https://www.youtube.com/watch?v=s9APLXM9Ei8",
+        "director": {
+            "first": "Craig Mazin",
+            "second": ""
+        },
+        "casts": {
+            "first": "Jessie Buckley",
+            "second": "Jared Harris",
+            "third": "Stellan Skarsgård"
+        }
+    },
+    {
+        "name": "Toy Story 4",
+        "category": {
+            "primary": "Animacija",
+            "secondary": "Avantura",
+            "other": "Komedija"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
+        "year": "2019",
+        "imdb": "8.1",
+        "url": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+        "director": {
+            "first": "Josh Cooley",
+            "second": ""
+        },
+        "casts": {
+            "first": "Tom Hanks",
+            "second": "Tim Allen",
+            "third": "Annie Potts"
+        }
+    },
+    {
+        "name": "Joker",
+        "category": {
+            "primary": "Kriminal",
+            "secondary": "Drama",
+            "other": "Trilier"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "year": "2019",
+        "imdb": "9.6 ",
+        "url": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+        "director": {
+            "first": "Todd Phillips",
+            "second": ""
+        },
+        "casts": {
+            "first": "Joaquin Phoenix",
+            "second": "Zazie Beetz",
+            "third": "Robert De Niro"
+        }
+    },
+    {
+        "name": "Once Upon a Time... in Hollywood",
+        "category": {
+            "primary": "Komedija",
+            "secondary": "Drama",
+            "other": ""
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BZDEzNWFjMDMtMWQ2NS00OWZjLWI4YTctNmRlM2JkZGYxM2Q5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+        "director": {
+            "first": "Quentin Tarantino",
+            "second": ""
+        },
+        "casts": {
+            "first": "Leonardo DiCaprio",
+            "second": "Brad Pitt",
+            "third": "Margot Robbie"
+        }
+    },
+    {
+        "name": "The Dark Knight",
+        "category": {
+            "primary": "Akcija",
+            "secondary": "Kriminal",
+            "other": "Drama"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "9.0 ",
+        "url": "https://www.youtube.com/watch?v=GokKUqLcvD8",
+        "director": {
+            "first": "Christopher Nolan",
+            "second": ""
+        },
+        "casts": {
+            "first": "Christian Bale",
+            "second": "Heath Ledger",
+            "third": "Aaron Eckhart"
+        }
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "category": {
+            "primary": "Biografija",
+            "secondary": "Drama",
+            "other": "Muzika"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=mP0VHJYFOAU",
+        "director": {
+            "first": "Bryan Singer",
+            "second": ""
+        },
+        "casts": {
+            "first": "Rami Malek",
+            "second": "Lucy Boynton",
+            "third": "Gwilym Lee"
+        }
+    },
+    {
+        "name": "Blade Runner 2049",
+        "category": {
+            "primary": "Akcija",
+            "secondary": "Drama",
+            "other": "Misterija"
+        },
+        "url_img": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "year": "2019",
+        "imdb": "8.0 ",
+        "url": "https://www.youtube.com/watch?v=gCcx85zbxz4",
+        "director": {
+            "first": "Denis Villeneuve",
+            "second": ""
+        },
+        "casts": {
+            "first": "Harrison Ford",
+            "second": "Ryan Gosling",
+            "third": "Ana de Armas"
+        }
+    }
+]
