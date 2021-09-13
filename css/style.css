@@ -209,7 +209,8 @@ img {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  position: absolute; }
+  position: absolute;
+  z-index: 3; }
 
 #myUL li {
   max-width: 13rem;
